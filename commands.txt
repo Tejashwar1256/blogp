@@ -1,0 +1,16 @@
+git clone url
+ 
+git add . or git add file name
+
+git commit -m "message"
+
+git push origin branch name
+
+
+git merge branch name
+
+
+git checkout branch name 
+
+git pull
+
